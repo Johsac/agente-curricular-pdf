@@ -75,20 +75,20 @@ Una vez que el script finalice, revisa la carpeta `./resultados`. Encontrarás l
 
 ## 📂 Estructura del Proyecto
 
-/pdf-app
-├── agents/
-│   ├── agent1.py
-│   ├── agent2.py
-│   └── agent3.py
-├── data/
-│   └── (Aquí van tus PDFs)
-├── prompts/
-│   └── prompts_library.py
-├── resultados/
-│   └── (Aquí se guardan los .txt generados)
-├── .gitignore
-├── api_key.py
-├── Dockerfile
-├── main.py
-├── README.md
-└── requirements.txt
+📂 pdf-app\
+┣ 📂 agents\
+┃   ┣ agent1.py\
+┃   ┣ agent2.py\
+┃   ┣ agent3.py\
+┣ 📂 data\
+┃   ┣ (Aquí van tus PDFs)\
+┣ 📂 prompts\
+┃   ┣ prompts_library.py\
+┣ 📂 resultados\
+┃   ┣ (Aquí se guardan los .txt generados)\
+┣ .gitignore\
+┣ api_key.py\
+┣ Dockerfile\
+┣ main.py\
+┣ README.md\
+┣ requirements.txt\
