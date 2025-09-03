@@ -1,0 +1,14 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Carpetas de datos y resultados
+data/
+resultados/
+
+# Archivo de clave de API
+api_key.py
+
+# Entornos virtuales
+venv/
+.venv

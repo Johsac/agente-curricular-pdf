@@ -1,0 +1,10 @@
+streamlit
+camelot-py[base]
+opencv-python-headless
+llama-index
+llama-index-llms-openai
+llama-index-embeddings-openai
+openai
+PyPDF2
+pandas
+openpyxl
