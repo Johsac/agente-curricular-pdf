@@ -162,6 +162,7 @@ app-api/
 
 Reporta bugs o ideas en los issues.
 
+
 ## Licencia
 MIT License - ver [LICENSE](LICENSE).
 
@@ -170,3 +171,22 @@ MIT License - ver [LICENSE](LICENSE).
 - Documentación adicional: Revisa `main.py` y `prompts/prompts_library.py`.
 
 ¡Gracias por usar este proyecto! 🚀
+=======
+📂 pdf-app\
+┣ 📂 agents\
+┃   ┣ agent1.py\
+┃   ┣ agent2.py\
+┃   ┣ agent3.py\
+┣ 📂 data\
+┃   ┣ (Aquí van tus PDFs)\
+┣ 📂 prompts\
+┃   ┣ prompts_library.py\
+┣ 📂 resultados\
+┃   ┣ (Aquí se guardan los .txt generados)\
+┣ .gitignore\
+┣ api_key.py\
+┣ Dockerfile\
+┣ main.py\
+┣ README.md\
+┣ requirements.txt\
+
