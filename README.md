@@ -28,37 +28,6 @@ El resultado es un documento **Word (.docx)** descargable, listo para uso acadé
 - **Cuenta en GitHub**: Crea una en [github.com](https://github.com).
 - **Claves API**: Opcional, para OpenAI (`OPENAI_API_KEY`) o Google Gemini (`GOOGLE_API_KEY`).
 
-## Configuración del Repositorio en GitHub
-
-### 1. Inicializar Git Localmente
-En tu directorio `C:\Users\johsa\Documentos\app-api`, abre PowerShell y ejecuta:
-
-```bash
-git init
-git add .
-git commit -m "Commit inicial: Estructura base del proyecto app-api"
-```
-
-### 2. Crear Repositorio en GitHub
-- Ve a [github.com](https://github.com) e inicia sesión.
-- Haz clic en **New** (o "Nuevo repositorio").
-- Nombra el repositorio, por ejemplo: `app-api`.
-- **No** marques "Add a README file" (ya tienes uno local).
-- Elige **Público** o **Privado**.
-- Haz clic en **Create repository**.
-- Copia la URL (ej. `https://github.com/tu-usuario/app-api.git`).
-
-### 3. Conectar y Subir
-En PowerShell, conecta tu repositorio local a GitHub y sube:
-
-```bash
-git remote add origin https://github.com/tu-usuario/app-api.git
-git branch -M main
-git push -u origin main
-```
-
-Si te pide autenticación, usa tu usuario de GitHub y un **Personal Access Token** (genera uno en GitHub: Settings > Developer settings > Personal access tokens).
-
 ## Instalación del Proyecto
 
 ### 1. Clonar (Opcional, si trabajas en otra máquina)
