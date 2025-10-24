@@ -1,10 +1,52 @@
-streamlit
-camelot-py[base]
-opencv-python-headless
+# #requirements.txt
+# fastapi
+# uvicorn[standard]
+# camelot-py[cv]
+# python-multipart
+# python-docx
+
+# streamlit
+# camelot-py[base]
+# opencv-python-headless
+# llama-index
+# llama-index-llms-openai
+# llama-index-embeddings-openai
+# openai
+# PyPDF2
+# pandas
+# openpyxl
+
+# python-dotenv
+# llama-index-llms-gemini
+
+# --- API Web ---
+# Framework principal para construir y servir la API.
+fastapi
+uvicorn[standard] # Servidor ASGI para ejecutar la aplicación FastAPI.
+python-multipart  # Necesario para que FastAPI maneje la subida de archivos.
+
+# --- IA & LLMs (LlamaIndex, OpenAI, Gemini) ---
+# Framework para construir aplicaciones con LLMs (RAG).
 llama-index
-llama-index-llms-openai
-llama-index-embeddings-openai
-openai
-PyPDF2
-pandas
-openpyxl
+llama-index-llms-openai       # Integración específica para modelos de OpenAI.
+llama-index-embeddings-openai # Integración para los modelos de embeddings de OpenAI.
+llama-index-llms-gemini       # Integración específica para modelos de Google Gemini.
+openai                        # Librería oficial de OpenAI para interactuar con su API.
+
+# --- Manejo de Documentos (PDF, Word, Excel) ---
+# Para extraer tablas de PDFs. [cv] instala dependencias de visión por computadora.
+camelot-py[cv]
+# Visión por computadora, requerida por Camelot. Versión "headless" sin GUI.
+opencv-python-headless
+PyPDF2                        # Para leer y extraer texto de archivos PDF.
+python-docx                   # Para crear y manipular documentos de Microsoft Word (.docx).
+pandas                        # Para manipulación de datos, usado por Camelot.
+openpyxl                      # Para que pandas pueda interactuar con formatos Excel (usado internamente).
+
+# --- Utilidades y Entorno ---
+# Para cargar variables de entorno (como API keys) desde un archivo .env.
+python-dotenv
+
+# --- Interfaz Gráfica (Opcional / No usada en la API principal) ---
+# Si se planea una herramienta de dashboard o prototipado rápido.
+# streamlit

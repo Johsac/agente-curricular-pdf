@@ -1,0 +1,155 @@
+Extracción Estructurada del Documento
+========================================
+
+---------- 1. I. IDENTIFICACIÓN ----------
+I. IDENTIFICACIÓN
+Carrera: Plan de Continuidad de Estudios de Ingeniería Civil Industrial
+Unidad responsable: Departamento de Matemáticas
+Nombre: Fundamentos de Matemáticas
+Código: FMMA015
+Periodo: Primer Trimestre
+Área de Conocimiento UNESCO: Ciencias – Sub área Matemáticas y estadística (46)
+Requisito para cursar: FMMA115 Cálculo Diferencial e Integral
+Requisitos previos: No tiene
+Co - Requisitos: No tiene
+
+---------- 2. II. CARGA ACADÉMICA ----------
+- Teórico - Directas: 4,5
+- Teórico - Personal: 6
+- Ayudantía - Directas:
+- Ayudantía - Personal:
+- Laboratorio - Directas:
+- Laboratorio - Personal:
+- Taller - Directas:
+- Taller - Personal:
+- Terreno - Directas:
+- Terreno - Personal:
+- Clínico - Directas:
+- Clínico - Personal:
+----
+- Total horas dedicación semanal: 10,5
+- Créditos SCT: 5
+
+---------- 3. III. DESCRIPCIÓN ----------
+RA1: Aplicar herramientas de ingeniería y de gestión para la solución de problemas, mediante el diseño de modelos productivos y de servicios, bajo un enfoque de sostenibilidad.
+RA2: Evaluar iniciativas de inversión bajo un enfoque de rentabilidad económica privada y social.
+RA2: Modelar fuentes de datos, utilizando herramientas tecnológicas que faciliten la toma de decisiones en las organizaciones.
+
+---------- 4. IV. APRENDIZAJES ESPERADOS y V. CONTENIDOS ----------
+UNIDAD I: CONJUNTOS NUMÉRICOS
+- Números enteros y operatoria.
+- Números racionales y operatoria.
+- Números reales y operatoria.
+- Representación decimal.
+- Potencias y raíces.
+- Logaritmos.
+- Solución de problemas en los ámbitos numéricos estudiados.
+- Ecuaciones lineales.
+- Ecuaciones cuadráticas.
+- Resolución de problemas que involucran ecuaciones lineales y cuadráticas.
+
+AE1: Aplicar la operatoria de los números reales en la resolución de ecuaciones lineales y cuadráticas o que involucran potencias, raíces o logaritmos.
+
+---
+
+UNIDAD II: MATRICES
+- Definición.
+- Operaciones básicas y propiedades.
+- Sistemas Lineales.
+- Eliminación Gaussiana.
+- Cálculo de inversas.
+- Determinantes.
+
+AE2: Modelar problemas mediante sistemas de ecuaciones lineales y resolverlos usando álgebra matricial o software.
+
+---
+
+UNIDAD III: FUNCIONES
+- Funciones reales de variable real.
+- Dominio, Codominio e imagen.
+- Representación gráfica de funciones reales.
+- Álgebra de funciones.
+- Composición de funciones.
+- Funciones: lineales, cuadráticas, racionales, exponenciales, logarítmicas y trigonométricas.
+
+AE3: Aplicar funciones en la modelación de problemas matemáticos, visualizando su comportamiento mediante gráficas.
+
+---
+
+UNIDAD IV: LÍMITE Y CONTINUIDAD
+- Idea intuitiva de límite.
+- Uso del lenguaje de límite y continuidad.
+- Determinación de límites de una función dada su gráfica y viceversa.
+
+AE4: Aplicar el concepto de límites para el análisis de la continuidad de una función desde el punto de vista gráfico.
+
+---------- 5. VI. HABILIDADES TRANSVERSALES ----------
+VI. HABILIDADES TRANSVERSALES
+La asignatura tributa el desarrollo de las siguientes habilidades transversales:
+- Razonamiento científico - cuantitativo.
+
+---------- 6. VII. ESTRATEGIAS DIDÁCTICAS Y PROCEDIMIENTOS DE EVALUACIÓN ----------
+VII. ESTRATEGIAS DIDÁCTICAS Y PROCEDIMIENTOS DE EVALUACIÓN
+A. Estrategias didácticas: La asignatura se centra en el aprendizaje mediante la permanente
+actividad del estudiante. Se hará énfasis en el desarrollo del pensamiento geométrico,
+lógico y en las habilidades comunicacionales del estudiante.
+Los estudiantes a través del análisis y discusión de casos o ejercicios matemáticos
+aprenderán a aplicar teorías y conceptos a situaciones prácticas y complejas. Lo anterior,
+apoyado de estrategias de modelaje pedagógico para facilitar el nivel de aprehensión de
+los estudiantes, mediante la entrega de ejemplos claros y concretos que esto s puedan
+seguir, y que favorezcan la clarificación de conceptos complejos, el desarrollo de
+habilidades prácticas y el aprendizaje activo y reflexivo, como también uso de so ftware.
+B. Orientaciones para el estudio autónomo: Durante las horas de estudio autónomo los
+estudiantes podrán desarrollar actividades que permitan el logro los aprendizajes
+esperados, tales como resolver guías de ejercicios, contestar retroalimentación del
+profesor, esquematizar sus apuntes y textos de a poyo en forma individual o grupal.
+C. Procedimientos de evaluación: Para evaluar el logro de los aprendizajes esperados,
+se considera la aplicación de pruebas solemnes globales , controles , quizzes, talleres ,
+tareas y examen final. Procedimientos que considerarán el uso de solucionarios para
+guías y cuestionarios, pruebas objetivas y de desarrollo en el caso de solemnes y uso de
+software cuando corresponda.
+
+---------- 7. VIII. CONDICIONES DE APROBACIÓN ----------
+VIII. CONDICIONES DE APROBACIÓN
+Al finalizar el semestre el alumno tendrá una nota de presentación a examen calculada a partir
+de las evaluaciones realizadas. La cantidad y ponderación de estas evaluaciones se declara en el
+syllabus del curso al comienzo de cada semestre.
+Existirá eximición del examen para estudiantes cuya nota de presentación sea igual o superior a
+5,0.
+El examen podrá usarse para sustituir la menor nota obtenida por el estudiante en las pruebas
+globales y recalcular la nota de presentación. Esto será declarado en el syllabus.
+La nota final del alumno que no se exime se calcula ponderando 70% la nota de presentación y
+30% la nota de examen. Si el alumno se exime del examen, su nota final corresponderá a su nota
+de presentación.
+Las condiciones generales y particulares de aprobación de la asignatura están expresadas en lo
+pertinente, en el Reglamento General de Pregrado.
+
+---------- 8. IX. BIBLIOGRAFÍA ----------
+IX. BIBLIOGRAFÍA
+Obligatoria:
+Larson, R. (2019). Fundamentos de Álgebra Lineal (7a ed.). Cengage.
+Stewart, J. (2018). Cálculo de una variable, Trascendentes tempranas (8a ed.). Cengage
+Learning.
+Zill, D., y Wright, W. (2011). Cálculo de una variable: Trascendentes tempranas (4ª ed.).
+McGraw Hill.
+
+Complementaria:
+
+Wisniewski, P. M., y Gutiérrez, A. L. (2002). Introducción a las matemáticas universitarias .
+McGraw Hill.
+Larson, R., y Edwards, B. (2023). Cálculo diferencial e integral (1a ed.). Cengage.
+Grossman, S. (2012). Álgebra Lineal (7a ed.). McGraw Hill.
+
+---------- 9. X. CORRESPONDENCIA CRÉDITOS UNAB ----------
+- Presencial - Teórico: 6
+- Presencial - Ayudantía: 0
+- Presencial - Laboratorio: 0
+- Presencial - Taller: 0
+- Presencial - Terreno: 0
+- Presencial - Clínico: 0
+- Personal: 8
+- Créditos UNAB: 14
+-----
+Texto adicional:
+Los indicadores de logro o evaluación de la asignatura podrían presentar cierta desalineación con los resultados de aprendizaje a los que contribuye. Esto se debe a ajustes realizados para reflejar de mejor manera los desempeños esperados de los estudiantes. Próximamente se llevará a cabo un proceso de ajuste mayor, que incluirá una redacción mejorada de los resultados de aprendizaje, con el fin de garantizar una mayor coherencia y efectividad en la evaluación.
+

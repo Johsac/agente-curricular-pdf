@@ -1,0 +1,408 @@
+Copia de Seguridad - Texto Bruto y Tablas del PDF
+==================================================
+
+---------- Página 1 ----------
+5  
+  
+I. IDENTIFICACIÓN  
+Carrera: Plan de Continuidad de Estudios de Ingeniería Civil Industrial  
+Unidad responsable: Departamento de Matemáticas  
+Nombre: Fundamentos de Matemáticas  
+Código: FMMA015  
+Periodo: Primer Trimestre  
+Área de Conocimiento UNESCO: Ciencias – Sub área Matemáticas y estadística (46)  
+Requisito para cursar:  
+FMMA115  Cálculo  Diferencial 
+e Integral   Requisitos previos:  
+No tiene   Co - Requisitos:  
+No tiene   
+II. CARGA ACADÉMICA  
+Tipo de Actividad  SCT (horas cronológicas)  
+Directas  Personal  
+Teórico  4,5 6 
+Ayudantía    
+Laboratorio    
+Taller    
+Terreno    
+Clínico    
+Total horas dedicación semanal  10,5  
+Créditos SCT  5 
+III. DESCRIPCIÓN  
+La asignatura  Fundamentos  de Matemáticas  tributa  al ámbito  de acción  I del perfil  de egreso,  
+Sistemas  Productivos  y de Servicios , en el siguiente  RA: 
+RA1: Aplicar herramientas de ingeniería y de gestión para la solución de problemas, mediante el 
+diseño de modelos productivos y de servicios, bajo un enfoque de sostenibilidad.  
+También tributa al ámbito de acción II del perfil de egreso, Evaluación de Proyectos de Inversión , 
+en el siguiente RA:  
+RA2:  Evaluar  iniciativas  de inversión  bajo  un enfoque  de rentabilidad  económica  privada  y social.  
+Finalmente  tributa  al ámbito  de acción  III del perfil de egreso, Transformación  Digital  en el RA: 
+RA2:  Modelar  fuentes  de datos,  utilizando  herramientas  tecnológicas  que faciliten  la toma  
+de decisiones en las organizaciones.  
+En este  curso  se introduce  el lenguaje  y elementos  básicos  que permiten  tener  un punto  
+de partida común para los cursos posteriores. Se refuerza la operatoria en los conjuntos 
+numéricos, resolución de ecuaciones de primer y segundo grado; se trabaja lenguaje 
+matemático en los diferentes puntos a tratar, se introduce el concepto de matrices y si stemas 
+lineales; además de una unidad de funciones y una introducción al concepto de límite y 
+
+--- TABLA DETECTADA EN ESTA PÁGINA ---
+| 0                                                                                                     | 1                        | 2        |
+|:------------------------------------------------------------------------------------------------------|:-------------------------|:---------|
+| I. IDENTIFICACIÓN                                                                                     |                          |          |
+| Carrera: Plan de Continuidad de Estudios de Ingeniería Civil Industrial                               |                          |          |
+| Unidad responsable: Departamento de Matemáticas                                                       |                          |          |
+| Nombre: Fundamentos de Matemáticas                                                                    |                          |          |
+| Código: FMMA015                                                                                       |                          |          |
+| Periodo: Primer Trimestre                                                                             |                          |          |
+| Área de Conocimiento UNESCO: Ciencias – Sub área Matemáticas y estadística (46)                       |                          |          |
+| Requisito para cursar:                                                                                |                          |          |
+| Requisitos previos:                                                                                   |                          |          |
+| Co - Requisitos:                                                                                      |                          |          |
+| FMMA115 Cálculo Diferencial                                                                           |                          |          |
+| No tiene                                                                                              |                          |          |
+| No tiene                                                                                              |                          |          |
+|                                                                                                       |                          |          |
+|                                                                                                       |                          |          |
+| e Integral                                                                                            |                          |          |
+| II.  CARGA ACADÉMICA                                                                                  |                          |          |
+| Tipo de Actividad                                                                                     | SCT (horas cronológicas) |          |
+|                                                                                                       | Directas                 | Personal |
+| Teórico                                                                                               | 4,5                      | 6        |
+| Ayudantía                                                                                             |                          |          |
+| Laboratorio                                                                                           |                          |          |
+| Taller                                                                                                |                          |          |
+| Terreno                                                                                               |                          |          |
+| Clínico                                                                                               |                          |          |
+| Total horas dedicación semanal                                                                        | 10,5                     |          |
+| Créditos SCT                                                                                          | 5                        |          |
+| III.  DESCRIPCIÓN                                                                                     |                          |          |
+| La asignatura Fundamentos de Matemáticas tributa al ámbito de acción I del perfil de egreso,          |                          |          |
+| Sistemas Productivos y de Servicios, en el siguiente RA:                                              |                          |          |
+| RA1: Aplicar herramientas de ingeniería y de gestión para la solución de problemas, mediante el       |                          |          |
+| diseño de modelos productivos y de servicios, bajo un enfoque de sostenibilidad.                      |                          |          |
+| También tributa al ámbito de acción II del perfil de egreso, Evaluación de Proyectos de Inversión,    |                          |          |
+| en el siguiente RA:                                                                                   |                          |          |
+| RA2: Evaluar iniciativas de inversión bajo un enfoque de rentabilidad económica privada y social.     |                          |          |
+| Finalmente tributa al ámbito de acción III del perfil de egreso, Transformación Digital en el RA:     |                          |          |
+| RA2:  Modelar  fuentes  de  datos,  utilizando  herramientas  tecnológicas  que  faciliten  la  toma  |                          |          |
+| de decisiones en las organizaciones.                                                                  |                          |          |
+| En  este  curso  se  introduce  el  lenguaje  y  elementos  básicos  que  permiten  tener  un  punto  |                          |          |
+| de  partida  común  para  los  cursos  posteriores.  Se  refuerza  la  operatoria  en                 |                          |          |
+| los  conjuntos                                                                                        |                          |          |
+| numéricos,                                                                                            |                          |          |
+| resolución  de  ecuaciones  de  primer  y  segundo  grado;  se                                        |                          |          |
+| trabaja                                                                                               |                          |          |
+| lenguaje                                                                                              |                          |          |
+| matemático en los diferentes puntos a tratar, se introduce el concepto de matrices y sistemas         |                          |          |
+| lineales;  además  de  una  unidad  de  funciones  y  una  introducción  al  concepto  de  límite  y  |                          |          |
+
+---------- Página 2 ----------
+6  
+ continuidad.  
+ Al finalizar el curso, los estudiantes serán capaces de manejar elementos matemáticos básicos 
+necesarios para cursos posteriores  
+IV. APRENDIZAJES  ESPERADOS  V.  CONTENIDOS  
+AE1.  Aplicar la operatoria de los números 
+reales en la resolución de ecuaciones lineales 
+y cuadráticas o que involucran potencias, 
+raíces o logaritmos.  
+ 
+AE2.  Modelar problemas mediante sistemas 
+de ecuaciones lineales y resolverlos usando 
+álgebra matricial o software.  
+ 
+ 
+AE3.  Aplicar funciones en la modelación de 
+problemas matemáticos, visualizando su 
+comportamiento mediante gráficas.  
+ 
+ 
+AE4.  Aplicar el concepto de límites para el  
+análisis de la continuidad de una función 
+desde  el punto de vista gráfico.  
+ 
+  UNIDAD  I: CONJUNTOS  NUMÉRICOS  
+- Números  enteros  y operatoria.  
+- Números  racionales  y operatoria.  
+- Números  reales  y operatoria.  
+- Representación  decimal.  
+- Potencias  y raíces.  
+- Logaritmos.  
+- Solución de problemas en los ámbitos 
+numéricos estudiados.  
+- Ecuaciones  lineales.  
+- Ecuaciones  cuadráticas.  
+- Resolución de problemas que involucran 
+ecuaciones lineales y cuadráticas.  
+ 
+ 
+UNIDAD  II: MATRICES  
+- Definición.  
+- Operaciones  básicas  y propiedades.  
+- Sistemas  Lineales.  
+- Eliminación  Gaussiana.  
+- Cálculo  de inversas.  
+- Determinantes.  
+ 
+ 
+UNIDAD  III: FUNCIONES  
+- Funciones  reales  de variable  real.  
+- Dominio,  Codominio  e imagen.  
+- Representación  gráfica  de funciones 
+reales.  
+- Álgebra  de funciones.  
+- Composición  de funciones.   
+- Funciones: lineales, cuadráticas, racionales, 
+exponenciales, logarítmicas y trigonométricas.  
+ 
+UNIDAD  IV: LÍMITE  Y CONTINUIDAD  
+- Idea  intuitiva  de límite.  
+- Uso del lenguaje  de límite  y 
+continuidad.  
+- Determinación  de límites  de una función
+ dada su gráfica y viceversa.  
+
+--- TABLA DETECTADA EN ESTA PÁGINA ---
+| 0                                                                                               | 1                                                |
+|:------------------------------------------------------------------------------------------------|:-------------------------------------------------|
+| continuidad.                                                                                    |                                                  |
+|  Al finalizar el curso, los estudiantes serán capaces de manejar elementos matemáticos básicos  |                                                  |
+| necesarios para cursos posteriores                                                              |                                                  |
+| IV.  APRENDIZAJES ESPERADOS                                                                     | V.    CONTENIDOS                                 |
+| AE1.  Aplicar                                                                                   | UNIDAD I: CONJUNTOS NUMÉRICOS                    |
+| la  operatoria  de                                                                              | -                                                |
+| los  números                                                                                    | Números enteros y operatoria.                    |
+| reales en la resolución de ecuaciones lineales                                                  | -                                                |
+| y  cuadráticas  o  que                                                                          | Números racionales y operatoria.                 |
+| involucran  potencias,                                                                          | -                                                |
+| raíces o logaritmos.                                                                            | Números reales y operatoria.                     |
+|                                                                                                 | -                                                |
+| AE2.  Modelar  problemas  mediante  sistemas                                                    | Representación decimal.                          |
+| de  ecuaciones  lineales  y  resolverlos  usando                                                | -                                                |
+| álgebra matricial o software.                                                                   | Potencias y raíces.                              |
+|                                                                                                 | -                                                |
+|                                                                                                 | Logaritmos.                                      |
+| AE3.  Aplicar  funciones  en  la  modelación  de                                                | -                                                |
+| problemas  matemáticos,                                                                         | Solución de problemas en los ámbitos             |
+| visualizando                                                                                    | numéricos estudiados.                            |
+| su                                                                                              | -                                                |
+| comportamiento mediante gráficas.                                                               | Ecuaciones lineales.                             |
+| AE4.  Aplicar  el  concepto  de                                                                 | -                                                |
+| límites  para  el                                                                               | Ecuaciones cuadráticas.                          |
+| análisis  de                                                                                    | -                                                |
+| la  continuidad  de  una                                                                        | Resolución  de  problemas  que                   |
+| función                                                                                         | involucran                                       |
+| desde  el punto de vista gráfico.                                                               | ecuaciones lineales y cuadráticas.               |
+|                                                                                                 | UNIDAD II: MATRICES                              |
+|                                                                                                 | -                                                |
+|                                                                                                 | Definición.                                      |
+|                                                                                                 | -                                                |
+|                                                                                                 | Operaciones básicas y propiedades.               |
+|                                                                                                 | -                                                |
+|                                                                                                 | Sistemas Lineales.                               |
+|                                                                                                 | -                                                |
+|                                                                                                 | Eliminación Gaussiana.                           |
+|                                                                                                 | -                                                |
+|                                                                                                 | Cálculo de inversas.                             |
+|                                                                                                 | -                                                |
+|                                                                                                 | Determinantes.                                   |
+|                                                                                                 | UNIDAD III: FUNCIONES                            |
+|                                                                                                 | - Funciones reales de variable real.             |
+|                                                                                                 | - Dominio, Codominio e imagen.                   |
+|                                                                                                 | - Representación  gráfica  de  funciones         |
+|                                                                                                 | reales.                                          |
+|                                                                                                 | - Álgebra de funciones.                          |
+|                                                                                                 | - Composición de funciones.                      |
+|                                                                                                 | - Funciones: lineales, cuadráticas, racionales,  |
+|                                                                                                 | exponenciales, logarítmicas y trigonométricas.   |
+|                                                                                                 |                                                  |
+|                                                                                                 | UNIDAD IV: LÍMITE Y CONTINUIDAD                  |
+|                                                                                                 | -                                                |
+|                                                                                                 | Idea intuitiva de límite.                        |
+|                                                                                                 | -                                                |
+|                                                                                                 | Uso                                              |
+|                                                                                                 | del                                              |
+|                                                                                                 | lenguaje                                         |
+|                                                                                                 | de                                               |
+|                                                                                                 | límite                                           |
+|                                                                                                 | y                                                |
+|                                                                                                 | continuidad.                                     |
+|                                                                                                 | -                                                |
+|                                                                                                 | Determinación  de                                |
+|                                                                                                 | límites  de  una  función                        |
+|                                                                                                 |                                                  |
+|                                                                                                 | dada su gráfica y viceversa.                     |
+
+---------- Página 3 ----------
+7  
+  
+ 
+VI. HABILIDADES TRANSVERSALES   
+La asignatura tributa el desarrollo de las siguientes habilidades transversales:  
+- Razonamiento  científico  - cuantitativo.  
+VII. ESTRATEGIAS DIDÁCTICAS Y PROCEDIMIENTOS DE EVALUACIÓN  
+A. Estrategias didácticas:  La asignatura se centra en el aprendizaje mediante la permanente 
+actividad del estudiante. Se hará énfasis en el desarrollo del pensamiento geométrico, 
+lógico y en las habilidades comunicacionales del estudiante.  
+Los estudiantes a través del análisis y discusión de casos o ejercicios matemáticos  
+aprenderán a aplicar teorías y conceptos a situaciones prácticas y complejas. Lo anterior, 
+apoyado de estrategias de modelaje pedagógico para facilitar el nivel de aprehensión de 
+los estudiantes, mediante la entrega de ejemplos claros y concretos que esto s puedan 
+seguir, y que favorezcan la clarificación de conceptos complejos, el desarrollo de 
+habilidades prácticas y el aprendizaje activo y reflexivo, como también uso de so ftware.  
+B. Orientaciones para el estudio autónomo: Durante las horas de estudio autónomo los 
+estudiantes podrán desarrollar actividades que permitan el logro los aprendizajes 
+esperados, tales como resolver guías de ejercicios, contestar retroalimentación del 
+profesor, esquematizar sus apuntes y textos de a poyo en forma individual o grupal.  
+C. Procedimientos de evaluación: Para  evaluar  el logro  de los aprendizajes  esperados,  
+se considera  la aplicación  de pruebas solemnes  globales , controles , quizzes,  talleres , 
+tareas y  examen  final. Procedimientos que considerarán el uso de solucionarios para 
+guías y cuestionarios, pruebas objetivas y de desarrollo en el caso de solemnes y uso de 
+software cuando corresponda.  
+ 
+VIII. CONDICIONES DE APROBACIÓN   
+Al finalizar el semestre el alumno tendrá una nota de presentación a examen calculada a partir 
+de las evaluaciones realizadas. La cantidad y ponderación de estas evaluaciones se declara en el 
+syllabus del curso al comienzo de cada semestre.  
+Existirá eximición del examen para estudiantes  cuya nota de presentación sea  igual o superior a 
+5,0. 
+El examen podrá usarse para sustituir la menor nota obtenida por el estudiante en las  pruebas 
+globales y recalcular la nota de presentación. Esto será declarado en el syllabus.  
+La nota final del alumno que no se exime se calcula ponderando 70% la nota de presentación  y 
+30% la nota de examen. Si el alumno se exime del examen, su nota final corresponderá a su nota 
+de presentación.  
+Las condiciones generales y particulares de aprobación de la asignatura están expresadas en  lo 
+pertinente, en el Reglamento General de Pregrado.  
+IX. BIBLIOGRAFÍA   
+Obligatoria:  
+Larson, R. (2019). Fundamentos de Álgebra Lineal  (7a ed.). Cengage.  
+Stewart,  J. (2018).  Cálculo  de una variable,  Trascendentes  tempranas  (8a ed.).  Cengage 
+Learning.  
+Zill, D., y Wright, W. (2011). Cálculo de una variable: Trascendentes tempranas (4ª ed.). 
+McGraw Hill.   
+
+--- TABLA DETECTADA EN ESTA PÁGINA ---
+| 0                                                                                                 |
+|:--------------------------------------------------------------------------------------------------|
+| VI. HABILIDADES TRANSVERSALES                                                                     |
+| La asignatura tributa el desarrollo de las siguientes habilidades transversales:                  |
+| -                                                                                                 |
+| Razonamiento científico - cuantitativo.                                                           |
+| VII. ESTRATEGIAS DIDÁCTICAS Y PROCEDIMIENTOS DE EVALUACIÓN                                        |
+| A.                                                                                                |
+| Estrategias didácticas: La asignatura se centra en el aprendizaje mediante la permanente          |
+| actividad del estudiante. Se hará énfasis en el desarrollo del pensamiento geométrico,            |
+| lógico y en las habilidades comunicacionales del estudiante.                                      |
+| Los  estudiantes  a  través  del  análisis  y  discusión  de  casos  o  ejercicios  matemáticos   |
+| aprenderán a aplicar teorías y conceptos a situaciones prácticas y complejas. Lo anterior,        |
+| apoyado de estrategias de modelaje pedagógico para facilitar el nivel de aprehensión de           |
+| los estudiantes, mediante la entrega de ejemplos claros y concretos que estos puedan              |
+| seguir,  y  que  favorezcan                                                                       |
+| la  clarificación  de  conceptos  complejos,  el  desarrollo  de                                  |
+| habilidades prácticas y el aprendizaje activo y reflexivo, como también uso de software.          |
+| B.  Orientaciones para el estudio autónomo:  Durante las horas de estudio autónomo los            |
+| estudiantes  podrán  desarrollar  actividades  que  permitan  el                                  |
+| logro                                                                                             |
+| los  aprendizajes                                                                                 |
+| esperados,  tales  como  resolver  guías  de  ejercicios,  contestar  retroalimentación  del      |
+| profesor, esquematizar sus apuntes y textos de apoyo en forma individual o grupal.                |
+| C.                                                                                                |
+| Procedimientos de evaluación: Para  evaluar  el  logro  de  los  aprendizajes  esperados,         |
+| se  considera  la  aplicación  de  pruebas solemnes globales, controles, quizzes, talleres,       |
+| tareas  y  examen  final.  Procedimientos  que  considerarán  el  uso  de  solucionarios  para    |
+| guías y cuestionarios, pruebas objetivas y de desarrollo en el caso de solemnes y uso de          |
+| software cuando corresponda.                                                                      |
+| VIII. CONDICIONES DE APROBACIÓN                                                                   |
+| Al finalizar el semestre el alumno tendrá una nota de presentación a examen calculada a partir    |
+| de las evaluaciones realizadas. La cantidad y ponderación de estas evaluaciones se declara en el  |
+| syllabus del curso al comienzo de cada semestre.                                                  |
+| Existirá eximición del examen para estudiantes cuya nota de presentación sea igual o superior a   |
+| 5,0.                                                                                              |
+| El examen podrá usarse para sustituir la menor nota obtenida por el estudiante en las  pruebas    |
+| globales y recalcular la nota de presentación. Esto será declarado en el syllabus.                |
+| La nota final del alumno que no se exime se calcula ponderando 70% la nota de presentación  y     |
+| 30% la nota de examen. Si el alumno se exime del examen, su nota final corresponderá a su nota    |
+| de presentación.                                                                                  |
+| Las condiciones generales y particulares de aprobación de la asignatura están expresadas en       |
+| lo                                                                                                |
+| pertinente, en el Reglamento General de Pregrado.                                                 |
+| IX.                                                                                               |
+| BIBLIOGRAFÍA                                                                                      |
+| Obligatoria:                                                                                      |
+| Larson, R. (2019). Fundamentos de Álgebra Lineal (7a ed.). Cengage.                               |
+| Stewart, J. (2018). Cálculo de una variable, Trascendentes tempranas (8a ed.). Cengage            |
+| Learning.                                                                                         |
+| Zill, D., y Wright, W. (2011). Cálculo de una variable: Trascendentes tempranas (4ª ed.).         |
+| McGraw Hill.                                                                                      |
+
+---------- Página 4 ----------
+8  
+  
+Complementaria:  
+ 
+Wisniewski,  P. M., y Gutiérrez,  A. L. (2002).  Introducción  a las matemáticas  universitarias . 
+McGraw Hill.  
+Larson, R., y Edwards, B. (2023). Cálculo diferencial e integral  (1a ed.). Cengage.  
+Grossman, S. (2012). Álgebra Lineal  (7a ed.). McGraw Hill.  
+ 
+X. CORRESPONDENCIA  CRÉDITOS  UNAB  
+Horas  pedagógicas:  
+Presencial  Personal  Créditos 
+UNAB  Teórico  Ayudantía  Laboratorio  Taller  Terreno  Clínico  
+6   
+   8 14 
+ 
+ 
+ 
+Nota importante: Los indicadores de logro o evaluación de esta asignatura, pueden mostrar cierta 
+desalineación con los resultados de aprendizaje a los que tributa la misma, debido a ajustes 
+realizados para reflejar de mejor forma los desempeños que se quiere muestren los estudiantes. 
+En un futuro próximo se implementará un proceso de ajuste mayor, que incluirá una redacción 
+mejorada de los resultados de aprendizaje, para así asegurar una mayor coherencia y efectividad 
+en la evaluación.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- TABLA DETECTADA EN ESTA PÁGINA ---
+| 0                                                                                                        |
+|:---------------------------------------------------------------------------------------------------------|
+| W                                                                                                        |
+|                                                                                                          |
+| Complementaria:                                                                                          |
+| isniewski,  P.  M.,  y  Gutiérrez,  A.  L.  (2002).  Introducción  a  las  matemáticas  universitarias.  |
+| McGraw Hill.                                                                                             |
+| Larson, R., y Edwards, B. (2023). Cálculo diferencial e integral (1a ed.). Cengage.                      |
+| Grossman, S. (2012). Álgebra Lineal (7a ed.). McGraw Hill.                                               |
+| X. CORRESPONDENCIA CRÉDITOS UNAB                                                                         |
+| Horas pedagógicas:                                                                                       |
+| Presencial                                                                                               |
+| Créditos                                                                                                 |
+| Personal                                                                                                 |
+| UNAB                                                                                                     |
+| Teórico                                                                                                  |
+| Ayudantía                                                                                                |
+| Laboratorio                                                                                              |
+| Taller                                                                                                   |
+| Terreno                                                                                                  |
+| Clínico                                                                                                  |
+| 6                                                                                                        |
+|                                                                                                          |
+|                                                                                                          |
+|                                                                                                          |
+|                                                                                                          |
+| 8                                                                                                        |
+| 14                                                                                                       |
+

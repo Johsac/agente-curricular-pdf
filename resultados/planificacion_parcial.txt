@@ -1,0 +1,86 @@
+# MATRIZ DE PLANIFICACIÓN CURRICULAR UNIFICADA
+
+1. Identificación general del curso
+- Nombre del curso/asignatura: Fundamentos de Matemáticas
+- Código: FMMA015
+- Programa/Plan de estudios: Plan de Continuidad de Estudios de Ingeniería Civil Industrial
+- Modalidad: Presencial
+- Nivel académico: Primer Trimestre
+- Duración: Primer Trimestre
+- Créditos SCT: 5
+- Docente/ Diseñador instruccional(s) del curso: 
+- Fecha de elaboración: 
+
+2. Objetivos formativos
+## Resultado de aprendizaje del curso 
+- RA1: Aplicar herramientas de ingeniería y de gestión para la solución de problemas, mediante el diseño de modelos productivos y de servicios, bajo un enfoque de sostenibilidad.
+- RA2: Evaluar iniciativas de inversión bajo un enfoque de rentabilidad económica privada y social.
+- RA2: Modelar fuentes de datos, utilizando herramientas tecnológicas que faciliten la toma de decisiones en las organizaciones.
+## Resultado de aprendizaje de la unidad 
+- AE1: Aplicar la operatoria de los números reales en la resolución de ecuaciones lineales y cuadráticas o que involucran potencias, raíces o logaritmos.
+- AE2: Modelar problemas mediante sistemas de ecuaciones lineales y resolverlos usando álgebra matricial o software.
+- AE3: Aplicar funciones en la modelación de problemas matemáticos, visualizando su comportamiento mediante gráficas.
+- AE4: Aplicar el concepto de límites para el análisis de la continuidad de una función desde el punto de vista gráfico.
+
+3. Estructura por unidad
+## Unidad
+- UNIDAD I: CONJUNTOS NUMÉRICOS
+- UNIDAD II: MATRICES
+- UNIDAD III: FUNCIONES
+- UNIDAD IV: LÍMITE Y CONTINUIDAD
+
+## Indicadores de Evaluación (IE)
+- PENDIENTE - AGENTE 3
+
+## Contenidos de la Unidad
+UNIDAD I: CONJUNTOS NUMÉRICOS
+- Números enteros y operatoria.
+- Números racionales y operatoria.
+- Números reales y operatoria.
+- Representación decimal.
+- Potencias y raíces.
+- Logaritmos.
+- Solución de problemas en los ámbitos numéricos estudiados.
+- Ecuaciones lineales.
+- Ecuaciones cuadráticas.
+- Resolución de problemas que involucran ecuaciones lineales y cuadráticas.
+UNIDAD II: MATRICES
+- Definición.
+- Operaciones básicas y propiedades.
+- Sistemas Lineales.
+- Eliminación Gaussiana.
+- Cálculo de inversas.
+- Determinantes.
+UNIDAD III: FUNCIONES
+- Funciones reales de variable real.
+- Dominio, Codominio e imagen.
+- Representación gráfica de funciones reales.
+- Álgebra de funciones.
+- Composición de funciones.
+- Funciones: lineales, cuadráticas, racionales, exponenciales, logarítmicas y trigonométricas.
+UNIDAD IV: LÍMITE Y CONTINUIDAD
+- Idea intuitiva de límite.
+- Uso del lenguaje de límite y continuidad.
+- Determinación de límites de una función dada su gráfica y viceversa.
+
+## Actividades didácticas y experiencias de aprendizaje
+- PENDIENTE - AGENTE 3
+
+## Actividades evaluativas (formativas y/o sumativas)
+- PENDIENTE - AGENTE 3
+
+## Recursos y materiales
+- PENDIENTE - AGENTE 3
+
+4. Evaluación
+## Tipo de evaluación
+Sumativa, Formativa. La evaluación es Sumativa ya que se aplica un examen final y pruebas solemnes globales para certificar el logro. También es Formativa, ya que se mencionan controles, quizzes, talleres y tareas, que suelen utilizarse para retroalimentar el proceso.
+
+## Instrumento
+pruebas solemnes globales, controles, quizzes, talleres, tareas, examen final, solucionarios para guías y cuestionarios, pruebas objetivas y de desarrollo, uso de software
+
+## Indicadores asociados
+ 
+
+## Ponderación (%)
+70% la nota de presentación y 30% la nota de examen.

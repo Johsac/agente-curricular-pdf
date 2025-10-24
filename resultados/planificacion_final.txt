@@ -1,0 +1,214 @@
+# MATRIZ DE PLANIFICACIÓN CURRICULAR UNIFICADA
+
+
+1. Identificación general del curso
+- Nombre del curso/asignatura: Fundamentos de Matemáticas
+- Código: FMMA015
+- Programa/Plan de estudios: Plan de Continuidad de Estudios de Ingeniería Civil Industrial
+- Modalidad: Presencial
+- Nivel académico: Primer Trimestre
+- Duración: Primer Trimestre
+- Créditos SCT: 5
+- Docente/ Diseñador instruccional(s) del curso: 
+- Fecha de elaboración: 
+
+
+2. Objetivos formativos
+## Resultado de aprendizaje del curso 
+- RA1: Aplicar herramientas de ingeniería y de gestión para la solución de problemas, mediante el diseño de modelos productivos y de servicios, bajo un enfoque de sostenibilidad.
+- RA2: Evaluar iniciativas de inversión bajo un enfoque de rentabilidad económica privada y social.
+- RA2: Modelar fuentes de datos, utilizando herramientas tecnológicas que faciliten la toma de decisiones en las organizaciones.
+## Resultado de aprendizaje de la unidad 
+- AE1: Aplicar la operatoria de los números reales en la resolución de ecuaciones lineales y cuadráticas o que involucran potencias, raíces o logaritmos.
+- AE2: Modelar problemas mediante sistemas de ecuaciones lineales y resolverlos usando álgebra matricial o software.
+- AE3: Aplicar funciones en la modelación de problemas matemáticos, visualizando su comportamiento mediante gráficas.
+- AE4: Aplicar el concepto de límites para el análisis de la continuidad de una función desde el punto de vista gráfico.
+
+
+3. Estructura por unidad
+## Unidad
+- UNIDAD I: CONJUNTOS NUMÉRICOS
+- UNIDAD II: MATRICES
+- UNIDAD III: FUNCIONES
+- UNIDAD IV: LÍMITE Y CONTINUIDAD
+
+## Indicadores de Evaluación (IE)
+### **UNIDAD I: CONJUNTOS NUMÉRICOS**
+
+1. Resolver ecuaciones lineales y cuadráticas utilizando las propiedades de la operatoria de los números reales.
+
+2. Aplicar las propiedades de potencias y raíces para simplificar y resolver ecuaciones que las involucren.
+
+3. Determinar la solución de ecuaciones que contienen logaritmos, empleando las reglas de la operatoria logarítmica.
+
+### **UNIDAD II: MATRICES**
+
+1. Representar sistemas de ecuaciones lineales de 3x3 mediante la notación matricial (matriz de coeficientes y matriz ampliada) en contextos de modelado de problemas.
+
+2. Aplicar el método de Gauss-Jordan o la regla de Cramer para determinar la solución de sistemas de ecuaciones lineales consistentes.
+
+3. Utilizar software especializado para calcular la inversa de una matriz y verificar la solución de sistemas de ecuaciones lineales complejos.
+
+### **UNIDAD III: FUNCIONES**
+
+1. Formular modelos funcionales a partir de enunciados que describen situaciones reales, identificando las variables dependientes e independientes.
+
+2. Interpretar el comportamiento de una función analizando las características de su gráfica (dominio, rango, monotonía) en un contexto específico.
+
+3. Aplicar las funciones elementales para resolver problemas de modelación, justificando la elección del tipo de función utilizada.
+
+### **UNIDAD IV: LÍMITE Y CONTINUIDAD**
+
+1. Identificar el concepto de límite de una función en un punto específico para la interpretación de su comportamiento gráfico.
+
+2. Relacionar las propiedades de los límites laterales con la existencia del límite de una función para determinar la continuidad en un intervalo.
+
+3. Aplicar el criterio de continuidad de una función a partir del cálculo de límites para el análisis de discontinuidades gráficas.
+
+
+
+## Contenidos de la Unidad
+UNIDAD I: CONJUNTOS NUMÉRICOS
+- Números enteros y operatoria.
+- Números racionales y operatoria.
+- Números reales y operatoria.
+- Representación decimal.
+- Potencias y raíces.
+- Logaritmos.
+- Solución de problemas en los ámbitos numéricos estudiados.
+- Ecuaciones lineales.
+- Ecuaciones cuadráticas.
+- Resolución de problemas que involucran ecuaciones lineales y cuadráticas.
+UNIDAD II: MATRICES
+- Definición.
+- Operaciones básicas y propiedades.
+- Sistemas Lineales.
+- Eliminación Gaussiana.
+- Cálculo de inversas.
+- Determinantes.
+UNIDAD III: FUNCIONES
+- Funciones reales de variable real.
+- Dominio, Codominio e imagen.
+- Representación gráfica de funciones reales.
+- Álgebra de funciones.
+- Composición de funciones.
+- Funciones: lineales, cuadráticas, racionales, exponenciales, logarítmicas y trigonométricas.
+UNIDAD IV: LÍMITE Y CONTINUIDAD
+- Idea intuitiva de límite.
+- Uso del lenguaje de límite y continuidad.
+- Determinación de límites de una función dada su gráfica y viceversa.
+
+## Actividades didácticas y experiencias de aprendizaje
+### **UNIDAD I: CONJUNTOS NUMÉRICOS**
+Activación de conocimientos previos: El Desafío de las Propiedades. Los estudiantes resuelven tres ejercicios básicos (ecuación lineal simple, potencia entera, definición de logaritmo) y justifican la propiedad de los números reales utilizada en cada paso.
+
+Aplicación guiada / Integración: Ruta de Ecuaciones Complejas. El docente guía la resolución de tres problemas modelo complejos (cuadrática con discriminante, radical que requiere elevación, logarítmica con cambio de base o condensación), enfatizando la aplicación rigurosa de las reglas de operatoria (IL 1, 2 y 3).
+
+Evaluación formativa + Retroalimentación: Mini-Quiz de Tres Estaciones. Los estudiantes resuelven un ejercicio de cada tipo de ecuación (cuadrática, exponencial/raíz, logarítmica). Se realiza una co-evaluación inmediata enfocada en la correcta aplicación de las propiedades y se corrigen errores conceptuales en el momento.
+
+Cierre reflexivo / Metacognición: El Diario del Solucionador. Los estudiantes identifican la familia de ecuaciones (lineales/cuadráticas, potencias/raíces, logarítmicas) que les resultó más desafiante y escriben una estrategia de repaso enfocada en la propiedad específica que necesitan reforzar.
+
+### **UNIDAD II: MATRICES**
+Presentar un problema de asignación de recursos 3x3. Los estudiantes deben escribir el Sistema de Ecuaciones Lineales (SLE) y transformarlo en su notación matricial ampliada.
+
+Aplicación guiada del método de Gauss-Jordan para resolver el SLE modelado. Se enfatiza la interpretación de la matriz escalonada reducida y la determinación de la consistencia del sistema.
+
+Los estudiantes utilizan GeoGebra para calcular la inversa de la matriz de coeficientes y verificar la solución del sistema. Retroalimentación inmediata sobre la consistencia de los resultados manuales y digitales.
+
+Debate sobre la eficiencia: ¿Cuándo es preferible usar Gauss-Jordan, Cramer o la matriz inversa? Reflexión sobre la utilidad del software para el manejo de sistemas complejos.
+
+### **UNIDAD III: FUNCIONES**
+Activación de conocimientos previos: Presentar tres escenarios cotidianos (ej. crecimiento poblacional, costo de producción, velocidad constante). Los estudiantes identifican las variables dependientes e independientes y proponen una posible relación matemática (lineal, exponencial, etc.).
+
+Aplicación guiada / Integración: Modelado de optimización. Los estudiantes, en parejas, resuelven un problema que requiere maximizar o minimizar una cantidad (ej. área o volumen) utilizando una cantidad limitada de recursos. Deben formular la función (IL 1), graficarla e interpretar el dominio, el rango y la monotonía de la función resultante en el contexto del problema (IL 2, IL 3).
+
+Evaluación formativa + Retroalimentación: Análisis de gráficas. Se entrega una gráfica de una función a trozos que representa un fenómeno económico (ej. impuestos o tarifas). Los estudiantes deben justificar la elección del tipo de función utilizada y explicar qué significa el cambio de monotonía en términos del contexto real.
+
+Cierre reflexivo / Metacognición: Ticket de salida. Responder: ¿Por qué es crucial definir el dominio de una función de modelación antes de intentar resolver el problema? Mencione un ejemplo de su campo de estudio donde la interpretación del rango es más importante que la fórmula misma.
+
+### **UNIDAD IV: LÍMITE Y CONTINUIDAD**
+Análisis Gráfico Intuitivo: Mostrar la gráfica de $f(x) = (x^2-4)/(x-2)$. Preguntar: ¿A qué valor se acerca $f(x)$ cuando $x$ se acerca a 2? (IL 1)
+
+Estudio de Límites Laterales: Calcular los límites laterales de una función definida a trozos en el punto de quiebre para determinar si el límite existe y si la función es continua en ese punto. (IL 2)
+
+Diagnóstico Rápido de Continuidad: Dado un conjunto de tres funciones (polinomial, racional, a trozos), aplicar el criterio de continuidad (Límite existe, $f(a)$ existe, Límite = $f(a)$) y clasificar el tipo de discontinuidad gráfica presente. (IL 3)
+
+Diario de Aprendizaje: Responder: ¿Cómo el concepto de límite nos permite predecir el comportamiento de una función en puntos donde no está definida o donde cambia abruptamente? ¿Qué utilidad tiene esto en el análisis de fenómenos reales?
+
+
+
+## Actividades evaluativas (formativas y/o sumativas)
+### **UNIDAD I: CONJUNTOS NUMÉRICOS**
+Actividad Formativa: Taller de Autoevaluación de Procedimientos
+Los estudiantes resuelven un conjunto de seis problemas (dos de ecuaciones reales, dos de simplificación con potencias/raíces, y dos de ecuaciones logarítmicas). Deben documentar cada paso de la resolución. Se utiliza una lista de cotejo para que los pares revisen y retroalimenten el uso correcto de las propiedades en cada etapa del proceso, enfocándose en la aplicación de las reglas operativas antes de la solución final.
+
+Actividad Sumativa: Examen de Certificación de Habilidades Operativas
+Prueba escrita individual que exige la resolución completa de tres tipos de problemas: 1) Resolver una ecuación cuadrática con coeficientes fraccionarios. 2) Simplificar una expresión compleja que combine potencias y raíces, y luego resolver una ecuación que la involucre. 3) Determinar la solución de una ecuación logarítmica que requiera la condensación de múltiples logaritmos. Se certifica el logro de los indicadores mediante la exactitud de la respuesta y la justificación de las propiedades utilizadas.
+
+### **UNIDAD II: MATRICES**
+Actividad Formativa: Taller de Modelado y Solución Parcial. Se presenta un problema contextualizado 3x3. Los estudiantes deben representar el sistema en notación matricial (I1) y aplicar el primer tercio del método de Gauss-Jordan (I2). La retroalimentación se centra en la correcta traducción del contexto a la matriz ampliada y la ejecución de las primeras operaciones fila, permitiendo correcciones antes de la solución completa.
+
+Actividad Sumativa: Evaluación de Caso Práctico Integrado. Se entrega un caso de aplicación complejo. El estudiante debe (I1) modelar el sistema, (I2) aplicar el método de Gauss-Jordan o Cramer para determinar la solución, y (I3) utilizar software especializado para calcular la inversa de la matriz de coeficientes y verificar la solución final del sistema.
+
+### **UNIDAD III: FUNCIONES**
+Actividad Formativa: Taller de Modelación y Retroalimentación Cruzada.
+Descripción: Los estudiantes reciben tres enunciados de situaciones reales (ej. variación de temperatura, costo fijo y variable). Deben formular el modelo funcional preliminar (Formular) e identificar las variables dependientes e independientes. Posteriormente, analizan la gráfica de una función relacionada y determinan su dominio y rango en el contexto dado (Interpretar). Se realiza una sesión de retroalimentación grupal enfocada en la claridad de la formulación y la identificación de variables.
+
+Actividad Sumativa: Evaluación de Desempeño: Proyecto de Optimización.
+Descripción: Se presenta un problema de modelación complejo (ej. maximización de área o crecimiento logístico) que requiere el uso de funciones elementales (Aplicar). El estudiante debe formular el modelo funcional completo (Formular), resolver el problema utilizando la función elegida, y justificar detalladamente por qué ese tipo de función es el más adecuado para la situación (Justificar). Finalmente, debe interpretar los puntos críticos de la gráfica (dominio, rango, monotonía) para ofrecer una conclusión al problema planteado (Interpretar). La entrega es un informe técnico.
+
+### **UNIDAD IV: LÍMITE Y CONTINUIDAD**
+Actividad Formativa: Taller de Interpretación Gráfica y Límites Laterales
+Se presentan a los estudiantes cinco funciones definidas gráficamente. Deben identificar el valor del límite en puntos críticos y, mediante la relación de los límites laterales, determinar si el límite existe o no. El objetivo es retroalimentar la correcta interpretación del comportamiento gráfico y la aplicación del concepto de existencia del límite.
+
+Actividad Sumativa: Prueba de Aplicación y Análisis de Continuidad
+El estudiante debe resolver un conjunto de problemas que requieren el cálculo algebraico de límites (incluyendo indeterminaciones y límites al infinito). Posteriormente, debe aplicar el criterio de continuidad a una función definida a trozos, determinando los valores de las constantes que garantizan la continuidad y analizando las discontinuidades gráficas resultantes.
+
+
+
+## Recursos y materiales
+### **UNIDAD I: CONJUNTOS NUMÉRICOS**
+Stewart, J., Redlin, L., & Watson, S. *Precálculo: Matemáticas para el Cálculo*. (Recurso Bibliográfico).
+Khan Academy: Módulo "Álgebra Avanzada: Ecuaciones Exponenciales y Logarítmicas" para práctica interactiva. (Recurso Digital).
+Video tutorial "Propiedades de Potencias y Raíces" (YouTube) para la simplificación de expresiones. (Recurso Audiovisual).
+GeoGebra (Calculadora CAS) para la verificación de soluciones de ecuaciones cuadráticas y logarítmicas. (Recurso Instrumental).
+Guía de Ejercicios Resueltos: "Operatoria en R y Ecuaciones Fundamentales". (Recurso Instrumental).
+
+### **UNIDAD II: MATRICES**
+*   Bibliográfico: Grossman, S. I. (2019). *Álgebra Lineal* (9a ed.). Capítulo 2: Sistemas de Ecuaciones Lineales y Matrices, para la notación matricial y el método de Gauss-Jordan.
+*   Digital: Plataforma Khan Academy: Módulo "Sistemas de ecuaciones lineales y matrices" para ejercicios interactivos de modelado y consistencia.
+*   Audiovisual: Video tutorial en YouTube: "Aplicación de la Regla de Cramer para sistemas de 3x3" que detalla el cálculo de determinantes.
+*   Instrumental: Software GeoGebra (Módulo CAS) para la verificación de soluciones y el cálculo de la matriz inversa de sistemas complejos.
+*   Instrumental: Guía práctica de ejercicios resueltos sobre la transformación de sistemas de ecuaciones a la matriz ampliada.
+
+### **UNIDAD III: FUNCIONES**
+Stewart, J. *Cálculo: Trascendentes Tempranas*. (Capítulo 1: Funciones y Modelos) para la formulación de modelos.
+Plataforma Desmos (Calculadora gráfica) para la interpretación interactiva de dominio, rango y monotonía.
+Video "Modelación de situaciones reales usando funciones elementales" (Ejemplo: Crecimiento poblacional o decaimiento).
+Guía de ejercicios prácticos sobre la aplicación de funciones lineales y cuadráticas en contextos económicos.
+Software GeoGebra para la construcción dinámica de gráficas y el ajuste de curvas a datos experimentales.
+
+### **UNIDAD IV: LÍMITE Y CONTINUIDAD**
+Cálculo de una variable: Trascendentes tempranas (Stewart). Capítulo 2: Límites y derivadas.
+Simulador interactivo de límites en GeoGebra para la aproximación gráfica a un punto.
+Video tutorial: "Límites laterales y la existencia del límite" (Canal de YouTube especializado en cálculo).
+Guía de ejercicios resueltos sobre la aplicación de las propiedades de los límites.
+Software de cálculo simbólico y graficación (Desmos) para el análisis de funciones a trozos y la identificación de discontinuidades.
+Artículo académico breve: "El concepto épsilon-delta y su interpretación intuitiva".
+Plataforma Khan Academy: Módulo de Continuidad de funciones para ejercicios de aplicación.
+
+
+
+
+4. Evaluación
+## Tipo de evaluación
+Sumativa, Formativa. La evaluación es Sumativa ya que se aplica un examen final y pruebas solemnes globales para certificar el logro. También es Formativa, ya que se mencionan controles, quizzes, talleres y tareas, que suelen utilizarse para retroalimentar el proceso.
+
+## Instrumento
+pruebas solemnes globales, controles, quizzes, talleres, tareas, examen final, solucionarios para guías y cuestionarios, pruebas objetivas y de desarrollo, uso de software
+
+## Indicadores asociados
+ 
+
+## Ponderación (%)
+70% la nota de presentación y 30% la nota de examen.
